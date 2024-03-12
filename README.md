@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzashakeel190&label=Profile%20views&color=0e75b6&style=flat" alt="hamzashakeel190" /> </p>
 
-- 🌱 I’m currently learning *Flutter API*
+- 🌱 I’m currently learning *Flutter APIs*
 
 - 👨‍💻 All of my projects are available at [hamzashakeeldev.tech](hamzashakeeldev.tech)
 
